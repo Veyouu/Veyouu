@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Veyouu
-- 👀 I’m interested in website programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me, just send a friend request
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i love color green
+# 👋 Hi, I'm Jervey Calusin  
 
-<!---
-Veyouu/Veyouu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BS Computer Science student at Enverga University  
+💻 Passionate about technology, problem solving, and innovation  
+🌱 Currently learning Python, SQL and Front-End Developing  
+🚀 Exploring open-source projects and AI tools  
+
+## 🧩 Tech Stack
+- Languages: Python, HTML, CSS  
+- Tools: Git, VS Code, Figma, MySQL 
+- Interests: Data Science | UI Design| Game Dev | Automation  
+
+## 📫 Let's Connect
+📧 yeverjcalusin@gmail.com  
+🌐 [Portfolio Website]([#](https://yevprofile.framer.website/)) | [LinkedIn](www.linkedin.com/in/jervey-calusin-0254a2268) | [Instagram](yy3v_)
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
