@@ -20,7 +20,7 @@
 
 ### 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,java,mysql,git,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=python,,html,css,,,mysql,git,vscode,figma" />
 </p>
 
 ---
@@ -43,9 +43,9 @@
 ### 💌 Connect With Me  
 <p align="center">
   <a href="mailto:yeverjcalusin@gmail.com"><img src="https://img.shields.io/badge/-Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-89CFF0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Instagram-FAB2C0?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="[https://github.com/jerveycalusin](https://github.com/Veyouu/Veyouu/edit/main/README.md)"><img src="https://img.shields.io/badge/-GitHub-B0E0E6?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a href="#"><img src="www.linkedin.com/in/jervey-calusin-0254a2268-LinkedIn-89CFF0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="[https://img.shields.io/badge/](https://www.instagram.com/yy3v._/)-Instagram-FAB2C0?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/jerveycalusin"><img src="https://img.shields.io/badge/-GitHub-B0E0E6?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
 
 ---
