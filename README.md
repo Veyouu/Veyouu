@@ -1,63 +1,72 @@
 <!-- PROFILE README for Jervey Calusin -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:89CFF0,100:FFC0CB&height=120&text=Hi!%20I'm%20Jervey%20Calusin💙&fontAlign=50&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:98C9A3,100:CDE7BE&height=120&text=Hi!%20I'm%20Jervey%20Calusin🍵&fontAlign=50&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
-<h3 align="center">🎧 Dream • Code • Repeat 💫</h3>
-<h4 align="center">🩵 CS Student | 💻 Web & AI Enthusiast | 🎶 Inspired by NewJeans’ vibes</h4>
+<h3 align="center">🍃 Analyze • Build • Improve</h3>
+<h4 align="center">📊 Aspiring Data Analyst | 🗄️ MySQL Focus | 💻 CS Student</h4>
 
 ---
 
-### 💫 About Me  
-💻 BS Computer Science student @ Enverga University  
-🌸 From **Lucena City, Philippines**  
-🧠 Learning **Python**, **Data Analytics**, and **AI**  
-🎵 I love clean code, lo-fi beats, and NewJeans aesthetics  
-🌈 “Cool like mint, fresh like code 🍬”
+### 🍵 About Me  
+💻 BS Computer Science student @ Manuel S. Enverga University Foundation  
+🌱 Based in **Lucena City, Philippines**  
+📊 Focused on **Data Analytics, SQL, and Python**  
+🧠 Currently learning **data cleaning, visualization, and database design**  
+🎧 I like calm workflows, structured data, and matcha aesthetics  
 
 ---
 
-### 💻 Tech Stack  
+### 📊 Core Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,,html,css,,,mysql,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,vscode,figma" />
 </p>
 
 ---
 
-### 🐇 Projects in Progress  
-🌱 Portfolio website inspired by **NewJeans pastel style**  
-🎶 Mini music-recommendation web app  
-💡 Experimenting with **AI tools + design**  
+### 🗄️ Data Projects (In Progress)  
+📈 Sales data analysis using **MySQL + Python**  
+📊 Data visualization dashboards (beginner level)  
+🧹 Data cleaning and preprocessing practice datasets  
+💡 Exploring **real-world datasets + query optimization**  
 
 ---
 
-### 💎 GitHub Stats (in pastel style)
+### 📉 GitHub Stats (Matcha Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerveycalusin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ADD8E6&icon_color=FFC0CB&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerveycalusin&theme=tokyonight&hide_border=true&background=0D1117&currStreakLabel=ADD8E6&sideNums=FFC0CB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jerveycalusin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F1F17&title_color=98C9A3&icon_color=CDE7BE&text_color=E8F5E9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerveycalusin&theme=tokyonight&hide_border=true&background=0F1F17&currStreakLabel=98C9A3&sideNums=CDE7BE" width="48%" />
 </p>
 
 ---
 
 ### 💌 Connect With Me  
 <p align="center">
-  <a href="mailto:yeverjcalusin@gmail.com"><img src="https://img.shields.io/badge/-Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/jervey-calusin-0254a2268"><img src="www.linkedin.com/in/jervey-calusin-0254a2268-LinkedIn-89CFF0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/yy3v._/"><img src="https://img.shields.io/badge/-Instagram-FAB2C0?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/Veyouu/Veyouu/edit/main/README.md"><img src="https://img.shields.io/badge/-GitHub-B0E0E6?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a href="mailto:yeverjcalusin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-98C9A3?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jervey-calusin-0254a2268">
+    <img src="https://img.shields.io/badge/LinkedIn-7FB77E?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/yy3v._/">
+    <img src="https://img.shields.io/badge/Instagram-A8D5BA?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://github.com/jerveycalusin">
+    <img src="https://img.shields.io/badge/GitHub-CDE7BE?style=for-the-badge&logo=github&logoColor=black">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-  <i>“Keep it fresh, keep it soft — like NewJeans and clean code 💻✨”</i>
+  <i>“Clean data. Clear insights. Calm mind. 🍵”</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:89CFF0&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDE7BE,100:98C9A3&height=100&section=footer" />
 </p>
