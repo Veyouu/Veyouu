@@ -33,13 +33,7 @@
 
 ---
 
-### 📉 GitHub Stats (Matcha Theme)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerveycalusin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F1F17&title_color=98C9A3&icon_color=CDE7BE&text_color=E8F5E9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerveycalusin&theme=tokyonight&hide_border=true&background=0F1F17&currStreakLabel=98C9A3&sideNums=CDE7BE" width="48%" />
-</p>
 
----
 
 ### 💌 Connect With Me  
 <p align="center">
